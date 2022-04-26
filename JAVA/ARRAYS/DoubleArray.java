@@ -25,7 +25,8 @@ public class DoubleArray {
 	}
 	catch(ArrayIndexOutOfBoundsException ex)
 	{
-		
+		ex.printStackTrace();
+		System.out.print(ex.getLocalizedMessage());
 	}
 	
 	finally
