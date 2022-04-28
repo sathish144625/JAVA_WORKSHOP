@@ -1,4 +1,4 @@
-# JAVA_WORKSHOP
+# JAVA WORKSHOP code repo
 
 LEARNING 
 * Core Java,
