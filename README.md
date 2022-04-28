@@ -1,9 +1,9 @@
 # JAVA_WORKSHOP
 
 LEARNING 
-*Core Java, *
-*Java EE
-*MVC
-*Struts basics
-*Struts MVC 
-*SpringBoot
+* Core Java,
+* Java EE
+* MVC
+* Struts basics
+* Struts MVC 
+* SpringBoot
